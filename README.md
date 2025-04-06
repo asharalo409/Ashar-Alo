@@ -1,3 +1,3 @@
-# আশার আলো
+# Raktobondhon
 
-এই ওয়েবসাইটটি 'আশার আলো' সংগঠনের জন্য তৈরি করা হয়েছে।
+A service-based donation tracking app built with Next.js.
